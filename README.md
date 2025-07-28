@@ -33,6 +33,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Fabio-Miguel-Naumes/Fabio-Miguel-Naumes/output/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Fabio-Miguel-Naumes/Fabio-Miguel-Naumes/output/snake.svg" alt="Snake animation" />
 
 ###
