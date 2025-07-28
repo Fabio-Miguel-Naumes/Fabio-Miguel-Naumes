@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Fabio Miguel Naumes and I'm a Studant, from Brasil</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Python for Quant Finance<br>🎯 Goals: Being a Quant in Goldman Sacks in Japan<br>🎲 Fun fact: On my birthday, Gamer Day and International Day Against Nuclear Tests are celebrated internationally. Interestingly, it was also on this day that Japan minted its first copper coins.</p>
 
 ###
 
@@ -33,6 +33,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Fabio-Miguel-Naumes/Fabio-Miguel-Naumes/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Fabio-Miguel-Naumes/Fabio-Miguel-Naumes/output/snake.yml" alt="Snake animation" />
 
 ###
